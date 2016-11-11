@@ -1,0 +1,1 @@
+angular.module('plunker').run(['$templateCache', function ($templateCache) { $templateCache.put('product.html', '<div>Hello World</div>'); }]);
